@@ -1,10 +1,10 @@
 ﻿POUSADA POUSADA
 
 AUTORES
+ANNA KARINANE DE SOUZA SILVA
+HUMBERTO CASSIO NAGATO
 JOANNES M. BERCAN
-ANNA KARINANNE SILVA
-JOÃO
-HUMBERTO CÁSSIO NAGATO
+JOÃO VITOR XAVIER MILAGRE
 
 ÁRVORE DE DIRETÓRIOS
 
@@ -24,6 +24,8 @@ RAIZ/
 |_dist/
 | |_PousadaPousada.jar
 | |_README.txt
+|_doc/
+| |_Trabalho Computacional 1 v2.0.pdf
 |_nbproject/
 | |_private/
 | | |_private.properties
@@ -39,6 +41,5 @@ RAIZ/
 |_commands.txt /* Autor deste arquivo: Bruno N. S. Cunha */
 |_manifest.mf
 |_README.txt
-|_Trabalho Computacional 1 v2.0.pdf
 
 ATENÇÃO: Todos os arquivos devem ser codificados com UTF-8 para melhor compreensão dos editores!!!!
