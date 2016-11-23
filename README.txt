@@ -3,8 +3,10 @@
 AUTORES
 ANNA KARINANE DE SOUZA SILVA
 HUMBERTO CASSIO NAGATO
-JOANNES M. BERCAN
+JOANNES MARCOS BERCAN
 JOÃO VITOR XAVIER MILAGRE
+
+Padrão de projeto utilizado: MVC Extendido
 
 ÁRVORE DE DIRETÓRIOS
 
@@ -38,6 +40,13 @@ RAIZ/
 | |_controle/
 | |_dao/
 | |_modelo/
+| | |_Cargo.java
+| | |_Chale.java
+| | |_Cliente.java
+| | |_Funcionario.java
+| | |_Hospedagem.java
+| | |_Pessoa.java
+| | |_Reserva.java
 | |_tools/
 |_build.xml
 |_commands.txt /* Autor deste arquivo: Bruno N. S. Cunha */
