@@ -1,10 +1,12 @@
 ﻿POUSADA POUSADA
 
 AUTORES
-JOANNES M. BERCAN
-ANNA KARINANNE SILVA
-JOÃO
-HUMBERTO CÁSSIO NAGATO
+ANNA KARINANE DE SOUZA SILVA
+HUMBERTO CASSIO NAGATO
+JOANNES MARCOS BERCAN
+JOÃO VITOR XAVIER MILAGRE
+
+Padrão de projeto utilizado: MVC Extendido
 
 ÁRVORE DE DIRETÓRIOS
 
@@ -24,6 +26,8 @@ RAIZ/
 |_dist/
 | |_PousadaPousada.jar
 | |_README.txt
+|_doc/
+| |_Trabalho Computacional 1 v2.0.pdf
 |_nbproject/
 | |_private/
 | | |_private.properties
@@ -33,12 +37,20 @@ RAIZ/
 | |_project.properties
 | |_project.xml
 |_src/
-| |_teste/
-|   |_teste.java
+| |_controle/
+| |_dao/
+| |_modelo/
+| | |_Cargo.java
+| | |_Chale.java
+| | |_Cliente.java
+| | |_Funcionario.java
+| | |_Hospedagem.java
+| | |_Pessoa.java
+| | |_Reserva.java
+| |_tools/
 |_build.xml
 |_commands.txt /* Autor deste arquivo: Bruno N. S. Cunha */
 |_manifest.mf
 |_README.txt
-|_Trabalho Computacional 1 v2.0.pdf
 
 ATENÇÃO: Todos os arquivos devem ser codificados com UTF-8 para melhor compreensão dos editores!!!!

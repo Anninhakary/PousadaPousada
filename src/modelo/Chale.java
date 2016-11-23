@@ -3,15 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package teste;
+package modelo;
 
 /**
  *
  * @author jiyamesu
  */
-public class teste {
-    public static void main(String[] args) {
-        System.out.println("Essa é uma classe de teste.");
-    }
+public class Chale {
     
 }
