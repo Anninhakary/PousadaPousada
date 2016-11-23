@@ -35,8 +35,10 @@ RAIZ/
 | |_project.properties
 | |_project.xml
 |_src/
-| |_teste/
-|   |_teste.java
+| |_controle/
+| |_dao/
+| |_modelo/
+| |_tools/
 |_build.xml
 |_commands.txt /* Autor deste arquivo: Bruno N. S. Cunha */
 |_manifest.mf
