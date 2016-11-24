@@ -1,7 +1,15 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * #### POUSADA POUSADA ####
+ * 
+ * PACKAGE: modelo
+ * CLASSE: Funcionario
+ * O QUE ESSA CLASSE FAZ:
+ * 
+ * Os autores dessa classe são...
+ * @author Joannes Marcos Bercan
+ * 
+ * Esta classe está na versão...
+ * @version ?
  */
 package modelo;
 
