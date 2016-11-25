@@ -48,6 +48,8 @@ RAIZ/
 | | |_Pessoa.java
 | | |_Reserva.java
 | |_tools/
+|   |_Config.java
+|   |_DAOBaseJDBC.java
 |_build.xml
 |_commands.txt /* Autor deste arquivo: Bruno N. S. Cunha */
 |_manifest.mf
